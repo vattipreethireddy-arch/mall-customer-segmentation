@@ -1,6 +1,3 @@
-# mall-customer-segmentation
-Mall Customer Segmentation using K-Means Clustering in Python to group customers based on annual income and spending score, with data visualization using Matplotlib and Seaborn.
-
 Mall Customer Segmentation Using K-Means Clustering
 Project Overview
 This project uses Machine Learning to group mall customers based on their annual income and spending score using the K-Means Clustering algorithm.
