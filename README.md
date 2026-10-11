@@ -1,4 +1,4 @@
-Mall Customer Segmentation Using K-Means Clustering
+#Mall Customer Segmentation Using K-Means Clustering
 
 Project Overview
 This project uses Machine Learning to group mall customers based on their annual income and spending score using the K-Means Clustering algorithm.
